@@ -1,8 +1,8 @@
 
-# Project – Django To Do Application (Without API Version)
+# Project – Django To Do Application (With API Version)
 
 ## 🚀 Overview
-This repository contains a fully functional **Django-based web application** structured with scalability, modularity, and clean organization in mind. The project includes user authentication, app-level separation, and Django best practices — all without relying on external APIs.
+This repository contains a fully functional **Django-based api based web application** structured with scalability, modularity, and clean organization in mind. The project includes user authentication, app-level separation, and Django best practices — all without relying on external APIs.
 
 This makes it ideal for learning Django fundamentals, extending functionality, or using it as a base template for new full-stack projects.
 
@@ -11,11 +11,7 @@ This makes it ideal for learning Django fundamentals, extending functionality, o
 ---
 
 ## 🔧 Features
-### ✔ User Authentication
-- Login, registration, and logout system  
-- Django authentication framework integration  
-- Secure session handling  
-
+=
 ### ✔ Modular Application Setup
 - Clean folder structure  
 - Separate modules for core logic and authentication  
