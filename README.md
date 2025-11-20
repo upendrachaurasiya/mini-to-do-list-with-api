@@ -34,4 +34,4 @@ This makes it ideal for learning Django fundamentals, extending functionality, o
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/upendrachaurasiya/mini-to-do-list.git
+git clone https://github.com/upendrachaurasiya/mini-to-do-list-with-api.git
